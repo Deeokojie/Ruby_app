@@ -1,0 +1,6 @@
+username: readitadmin
+password: hello1
+
+development:
+<< *default
+database: readit_development
