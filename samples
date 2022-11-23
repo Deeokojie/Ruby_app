@@ -1,0 +1,7 @@
+<%= "message from controler :
+#{@controler message}" %>  #retieve output in url 
+
+#how to link from index page to sample 
+
+<%= link_to("go to index"), 
+{:action => 'index'})' %>
